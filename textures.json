@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "textures": []
+  "textures": [
+    {
+      "name": "4x4Chromatest",
+      "category": "Flipbooks",
+      "source": "textures/Flipbooks/4x4Chromatest.png",
+      "assetId": ""
+    }
+  ]
 }
